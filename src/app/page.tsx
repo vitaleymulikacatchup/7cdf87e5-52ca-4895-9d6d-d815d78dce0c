@@ -16,7 +16,6 @@ export default function Home() {
         logoAlt="DogPaw Memecoin"
         leftButtonText="Join the Pack"
         className="z-20"
-        buttonBgClassName="bg-primary"
         buttonTextColor="text-white"
       />
 
